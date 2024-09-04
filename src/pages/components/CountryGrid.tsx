@@ -1,4 +1,3 @@
-//@ts-uncheck
 // components/CountryGrid.tsx
 
 import React, { useEffect, useRef, useState } from "react";
