@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+  min-width: 80vw;
+}
+.wrapper {
+  padding: 10px;
+  box-shadow: 0px 0px 20px 11px #1111115e;
+  border-radius: 5px;
+  width: 100%;
+  min-height: 80vh;
+}
